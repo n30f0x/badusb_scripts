@@ -11,4 +11,5 @@ SHIFT ENTER
 STRING Please keep offtopic in #random, you're always welcome to chat or speak out there!
 SHIFT ENTER
 STRING For manual updates and blazing fast support use #bot-spam
+DELAY 10
 ENTER
