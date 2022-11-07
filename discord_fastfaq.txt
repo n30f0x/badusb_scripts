@@ -1,0 +1,14 @@
+DEFAULTDELAY 150
+STRING Shipping news and shop info are updated ASAP!
+SHIFT ENTER
+SHIFT ENTER
+STRING READ ME! -  #welcome | #faq | #announcements | #shipping 
+SHIFT ENTER
+SHIFT ENTER
+STRING DOCUMENTATION - <https://docs.flipperzero.one/> <https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/>
+SHIFT ENTER
+SHIFT ENTER
+STRING Please keep offtopic in #random, you're always welcome to chat or speak out there!
+SHIFT ENTER
+STRING For manual updates and blazing fast support use #bot-spam
+ENTER
