@@ -1,0 +1,17 @@
+STRINGDELAY 500
+STRING Before asking any questions please check out these sites:
+SHIFT ENTER
+STRING - <https://dontasktoask.com>
+SHIFT ENTER
+STRING - <https://nohello.com>
+SHIFT ENTER
+STRING - <https://xyproblem.info>
+SHIFT ENTER
+STRING - <https://stackoverflow.com/help/how-to-ask>
+SHIFT ENTER
+STRING - <http://catb.org/~esr/faqs/smart-questions.html> 
+SHIFT ENTER
+STRING Please make clear statements of your steps, it will ease the solution by magnitutes!
+SHIFT ENTER
+STRING Good question contains half the answer, unfortunately we can't read other's minds yet :(
+ENTER
