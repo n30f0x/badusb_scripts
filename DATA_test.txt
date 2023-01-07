@@ -8,7 +8,7 @@ STRING - <https://nohello.com>
 SHIFT ENTER
 STRING - <https://xyproblem.info>
 SHIFT ENTER
-STRINGDELAY 1000
+STRINGDELAY 50
 STRING - <https://stackoverflow.com/help/how-to-ask>
 SHIFT ENTER
 STRING - <http://catb.org/~esr/faqs/smart-questions.html> 
